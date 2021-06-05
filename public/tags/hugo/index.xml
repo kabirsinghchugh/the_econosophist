@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on The Econosophist</title>
+    <link>https://kabirchugh.xyz/tags/hugo/</link>
+    <description>Recent content in hugo on The Econosophist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kabirchugh.xyz/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>https://kabirchugh.xyz/posts/testpage/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://kabirchugh.xyz/posts/testpage/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;Heading&lt;/h1&gt;
+&lt;p&gt;This is a &lt;strong&gt;heading&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sub-heading&#34;&gt;Sub-heading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;this is a list&lt;/li&gt;
+&lt;li&gt;this is second
+&lt;ul&gt;
+&lt;li&gt;indent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;outdent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;abcdef&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;abc&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;abcdef
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;==a==&lt;/p&gt;
+&lt;p&gt;::A::&lt;/p&gt;
+&lt;p&gt;[[a]]&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph TD;
+A--&amp;gt;B
+&lt;/code&gt;&lt;/pre&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;a&lt;/th&gt;
+&lt;th&gt;A&lt;/th&gt;
+&lt;th&gt;B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;def&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;abc&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;abc[^abc]&lt;/p&gt;
+&lt;p&gt;def&lt;/p&gt;
+&lt;p&gt;$x^2$&lt;/p&gt;
+&lt;p&gt;$$
+\alpha+\beta
+$$&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
