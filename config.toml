@@ -9,8 +9,8 @@ paginatePath = "page"
 rssLimit = 20
 
 [author]
-name = "Your Name"
-url = "https://example.org/somepage"
+name = "kabir Chugh"
+url = "https://kabirsinghchugh.xyz"
 avatar = "path/to/some-image.jpg"
 
 [outputFormats.SearchIndex]
@@ -32,9 +32,9 @@ section = [ "HTML", "RSS", "JSON" ]
     noHeaderOrFooter = true
     preserveTOC = false
     safeMode = "unsafe"
-    sectionNumbers = false
-    trace = false
-    verbose = false
+    sectionNumbers = true
+    trace = true
+    verbose = true
     workingFolderCurrent = false
     [markup.asciidocExt.attributes]
   [markup.blackFriday]
@@ -65,7 +65,7 @@ section = [ "HTML", "RSS", "JSON" ]
       autoHeadingID = true
       autoHeadingIDType = "github"
       [markup.goldmark.parser.attribute]
-        block = false
+        block = true
         title = true
     [markup.goldmark.renderer]
       hardWraps = false
@@ -101,7 +101,7 @@ imageMaxWidth = 400
 mobileMenu = true
 poweredby = false
 relatedposts = true
-sidebar = true
+sidebar = false
 submitted = true
 MathJax = true
 mainSections = [ "Posts", "Others" ]
