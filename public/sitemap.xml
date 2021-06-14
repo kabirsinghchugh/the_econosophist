@@ -2,40 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kabirchugh.xyz/categories/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <loc>https://kabirchugh.xyz/projects/</loc>
+    <lastmod>2021-03-09T18:27:18+00:00</lastmod>
   </url><url>
-    <loc>https://kabirchugh.xyz/categories/hugo/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kabirchugh.xyz/tags/hugo/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <loc>https://kabirchugh.xyz/tags/linguistics/</loc>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
   </url><url>
     <loc>https://kabirchugh.xyz/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
   </url><url>
-    <loc>https://kabirchugh.xyz/categories/markdown/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kabirchugh.xyz/tags/plugins/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <loc>https://kabirchugh.xyz/tags/philosophy/</loc>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
   </url><url>
     <loc>https://kabirchugh.xyz/posts/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/tlp1/</loc>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/series/</loc>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
   </url><url>
     <loc>https://kabirchugh.xyz/tags/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
   </url><url>
-    <loc>https://kabirchugh.xyz/posts/testpage/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <loc>https://kabirchugh.xyz/tags/wittgenstein/</loc>
+    <lastmod>2020-08-06T10:48:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/bergson/</loc>
+    <lastmod>2020-05-30T15:47:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/posts-experiencing-time/</loc>
+    <lastmod>2020-05-30T15:47:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/fiction/</loc>
+    <lastmod>2020-05-30T15:47:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/the-magic-mountain/</loc>
+    <lastmod>2020-05-30T15:47:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/if-spring-comes-can-autumn-be-far-behind/</loc>
+    <lastmod>2020-04-03T11:47:16+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/anxiety-to-party-or-not-to-party/</loc>
+    <lastmod>2020-03-20T21:55:16+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/dreams/</loc>
+    <lastmod>2019-07-11T08:36:04+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/an-excerpt-from-friedrich-nietzsches-thus-spake-zarathustra/</loc>
+    <lastmod>2019-06-24T14:06:49+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/favourites/</loc>
+    <lastmod>2018-09-24T20:35:53+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/poem/</loc>
+    <lastmod>2018-09-24T20:35:53+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/published/</loc>
+    <lastmod>2018-09-24T20:35:53+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/the-suicide-of-god/</loc>
+    <lastmod>2018-09-24T20:35:53+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/a-natural-calamity/</loc>
+    <lastmod>2018-07-27T07:53:35+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/ethics/</loc>
+    <lastmod>2018-05-14T16:48:09+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/kant/</loc>
+    <lastmod>2018-05-14T16:48:09+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/of-good-evil-and-all-that-jazz-a-case-for-objective-morality-by-immanuel-kant/</loc>
+    <lastmod>2018-05-14T16:48:09+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/a-quixotic-research-proposal-in-economic-theory/</loc>
+    <lastmod>2018-02-17T07:39:27+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/confessions-of-an-audiophile/</loc>
+    <lastmod>2017-11-20T10:23:06+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/behavioral-economics/</loc>
+    <lastmod>2017-10-13T10:49:44+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/economics/</loc>
+    <lastmod>2017-10-13T10:49:44+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/psychology/</loc>
+    <lastmod>2017-10-13T10:49:44+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/the-behavioral-revolution-in-economics/</loc>
+    <lastmod>2017-10-13T10:49:44+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/cognition/</loc>
+    <lastmod>2017-09-02T14:33:02+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/language-thoughts-metaphors-and-analogies/</loc>
+    <lastmod>2017-09-02T14:33:02+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/anxiety/</loc>
+    <lastmod>2017-07-23T07:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/existentialism/</loc>
+    <lastmod>2017-07-23T07:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/kierkegaard/</loc>
+    <lastmod>2017-07-23T07:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/of-kierkegaard-anxiety-and-selfhood/</loc>
+    <lastmod>2017-07-23T07:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/a-new-epoch-of-humanity/</loc>
+    <lastmod>2017-07-21T11:34:05+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/tags/academia/</loc>
+    <lastmod>2017-05-02T06:54:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/is-economics-imperial-among-the-social-sciences-a-philosophical-approach/</loc>
+    <lastmod>2017-05-02T06:54:28+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/how-propaganda-works/</loc>
+    <lastmod>2017-04-30T17:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/economics-the-ultimate-philosophy/</loc>
+    <lastmod>2016-06-28T10:02:31+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/one-mans-trash-is-another-mans-treasure/</loc>
+    <lastmod>2015-09-27T14:26:25+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/have-a-cookie/</loc>
+    <lastmod>2015-05-08T12:02:30+00:00</lastmod>
+  </url><url>
+    <loc>https://kabirchugh.xyz/posts/obsidian-alfred/</loc>
   </url><url>
     <loc>https://kabirchugh.xyz/about/</loc>
   </url><url>
-    <loc>https://kabirchugh.xyz/posts/configuration/</loc>
+    <loc>https://kabirchugh.xyz/categories/</loc>
   </url><url>
     <loc>https://kabirchugh.xyz/contact/</loc>
   </url><url>
-    <loc>https://kabirchugh.xyz/posts/create-theme/</loc>
+    <loc>https://kabirchugh.xyz/posts/my-note-taking-workflow/</loc>
   </url><url>
     <loc>https://kabirchugh.xyz/search/</loc>
   </url><url>

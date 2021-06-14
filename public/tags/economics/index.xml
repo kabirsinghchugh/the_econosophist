@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on The Econosophist</title>
+    <link>https://kabirchugh.xyz/tags/economics/</link>
+    <description>Recent content in Economics on The Econosophist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 13 Oct 2017 10:49:44 +0000</lastBuildDate>
+    <atom:link href="https://kabirchugh.xyz/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Behavioral Revolution in Economics</title>
+      <link>https://kabirchugh.xyz/posts/the-behavioral-revolution-in-economics/</link>
+      <pubDate>Fri, 13 Oct 2017 10:49:44 +0000</pubDate>
+      <guid>https://kabirchugh.xyz/posts/the-behavioral-revolution-in-economics/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is Economics imperial among the social sciences? A philosophical approach.</title>
+      <link>https://kabirchugh.xyz/posts/is-economics-imperial-among-the-social-sciences-a-philosophical-approach/</link>
+      <pubDate>Tue, 02 May 2017 06:54:28 +0000</pubDate>
+      <guid>https://kabirchugh.xyz/posts/is-economics-imperial-among-the-social-sciences-a-philosophical-approach/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
